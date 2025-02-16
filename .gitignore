@@ -1,0 +1,19 @@
+﻿# Java
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.h2.db
